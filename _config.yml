@@ -12,7 +12,7 @@ github_repo: "https://github.com/secondchilde/secondchilde.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "若问心中所向,独揽大好河江!"
-sidebar-avatar: img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/484354.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
